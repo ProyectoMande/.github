@@ -4,4 +4,4 @@ Mande
 Integrantes:
 - Juan Sebastian Getial Getial
 - Jose Luis Hincapie Buchelly
-- Sebastian Idrovo Avirama
+- Sebastian Idrobo Avirama
